@@ -165,9 +165,9 @@ The prototype was assembled on a breadboard and tested with an Arduino Uno.
 If available, add your actual hardware photographs to the repository under `images/` and display them here:
 
 ```markdown
-![Normal Condition](images/normal-condition.jpg)
+![Normal Condition](images/normal-condition.jpeg)
 
-![Gas High Alert](images/gas-high-alert.jpg)
+![Gas High Alert](images/gas-high-alert.jpeg)
 ```
 
 ## 🚀 Getting Started
